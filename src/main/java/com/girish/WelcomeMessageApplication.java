@@ -8,6 +8,7 @@ public class WelcomeMessageApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WelcomeMessageApplication.class, args);
+		System.out.println("testing");
 	}
 
 }
